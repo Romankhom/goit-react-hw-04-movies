@@ -1,0 +1,1 @@
+{"version":3,"sources":["movieList.module.css"],"names":[],"mappings":"AAAA,+BACE,UAAyB,CACzB,+BAAyC,CACzC,sBAAgB,CAAhB,cACF","file":"home-page.54535b30.chunk.css","sourcesContent":[".item a:hover {\n  color: rgb(255, 255, 255);\n  border-bottom: 2px solid rgb(62, 189, 62);\n  transition: 0.3s;\n}\n"]}

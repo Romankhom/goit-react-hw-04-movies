@@ -1,0 +1,1 @@
+{"version":3,"sources":["movie.module.css"],"names":[],"mappings":"AAAA,2BACE,aACF,CAEA,kBACE,kBACF,CAEA,wBACE,wBAAiC,CACjC,6BAAuB,CAAvB,qBACF","file":"movieId-page.bf562b36.chunk.css","sourcesContent":[".item a:hover {\n  color: rgb(0, 189, 47);\n}\n\n.btn {\n  margin: 5px 0 0 5px;\n}\n\n.btn:hover {\n  background-color: rgb(0, 189, 47);\n  transition: linear 0.4s;\n}\n"]}
