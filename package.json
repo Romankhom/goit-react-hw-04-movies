@@ -2,6 +2,7 @@
   "name": "goit-react-hw-04-movies",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Romankhom.github.io/goit-react-hw-04-movies",
   "dependencies": {
     "axios": "^0.18.0",
     "classnames": "^2.2.6",
